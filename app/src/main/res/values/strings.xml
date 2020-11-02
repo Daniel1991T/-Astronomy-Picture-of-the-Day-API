@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Astronomy day picture NASA API</string>
+    <string name="retry">Retry</string>
+    <string name="date">Date:</string>
+</resources>
